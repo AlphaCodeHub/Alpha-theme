@@ -14,7 +14,7 @@ A stylish theme inspired by vercel theme 🎨.
     <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/RaillyHugo.one-hunter?colorA=363a4f&colorB=5BDfff&style=for-the-badge"></a>
 </p>
 
-![image-1](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/one-hunter_preview.png)
+![image-1](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
 ## Installation
 
@@ -26,43 +26,21 @@ A stylish theme inspired by vercel theme 🎨.
 
 ### Classic
 
-![image-2](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/classic.png)
+![image-2](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
 ---
 
 ## Alpha Theme Variants
 
-### Material
+### Alpha Dark
 
-![image-3](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/material.png)
+![image-3](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
-### Vercel
+### Alpha light
 
-![image-4](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/vercel.png)
+![image-4](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20light.png)
 
-### Light
 
-![image-5](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/light.png)
-
-### One Hunter Flexoki Dark
-
-![One Hunter Flexoki Dark](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/one-hunter-flexoki-dark.png)
-
-### One Hunter Flexoki Light
-
-![One Hunter Flexoki Light](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/one-hunter-flexoki-light.png)
-
-## Flexoki
-
-A port of [Flexoki](https://github.com/kepano/flexoki) inky color scheme for VSCode.
-
-### Flexoki Dark
-
-![Original Flexoki Dark](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/flexoki-dark.png)
-
-### Flexoki Light
-
-![Original Flexoki Light](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/flexoki-light.png)
 
 ## Supported Languages
 
