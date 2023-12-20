@@ -1,11 +1,9 @@
 <h3 align="center">
-	<img src="https://github.com/AlphaCodeHub/alpha-theme/a5b895b8-0349-479a-9686-51e0d22a0efa/alpha.jpg" width="100" alt="Logo"/><br/>
+	![logo](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/2b6da104-a4b0-448f-acde-f30371e3a8f0)
+  width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Alpha Theme for <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub">VSCode</a>
 </h3>
-![alpha](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/d2174db9-90f0-4825-974e-4f23b5bd0bff)
-
-![logo](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/cd1525b1-294e-4bb8-8c73-ad35ce7fbb54)
 
 <p align="center">
 A stylish theme inspired by vercel theme 🎨.
@@ -17,19 +15,21 @@ A stylish theme inspired by vercel theme 🎨.
     <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/RaillyHugo.one-hunter?colorA=363a4f&colorB=5BDfff&style=for-the-badge"></a>
 </p>
 
-![image-1](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+![image-1](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `one-hunter`
-3. Select `One Hunter Theme` and click **Install**
+2. Search for `Alpha theme`
+3. Select `Alpha theme` and click **Install**
+4.  **enjoy**
+
 
 ## Screenshots
 
 ### Classic
 
-![image-2](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+![image-2](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
 ---
 
@@ -37,11 +37,11 @@ A stylish theme inspired by vercel theme 🎨.
 
 ### Alpha Dark
 
-![image-3](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+![image-3](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
 
 ### Alpha light
 
-![image-4](https://github.com/AlphaCodeHub/alpha-theme/blob/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20light.png)
+![image-4](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20light.png)
 
 
 
