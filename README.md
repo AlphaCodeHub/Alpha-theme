@@ -1,9 +1,9 @@
 <h3 align="center">
-	<img src="https://github.com/AlphaCodeHub/alpha-theme/blob/b2207b31c3ab7a8c8b4daf7ab671c0886180f66b/alpha%20logo.jpg" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/a5b895b8-0349-479a-9686-51e0d22a0efa/alpha.jpg" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Alpha Theme for <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub">VSCode</a>
 </h3>
-![image](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/a5b895b8-0349-479a-9686-51e0d22a0efa)
+
 
 <p align="center">
 A stylish theme inspired by vercel theme 🎨.
