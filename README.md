@@ -3,7 +3,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Alpha Theme for <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub">VSCode</a>
 </h3>
-![alpha](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/a5b895b8-0349-479a-9686-51e0d22a0efa)
+![image](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/a5b895b8-0349-479a-9686-51e0d22a0efa)
 
 <p align="center">
 A stylish theme inspired by vercel theme 🎨.
