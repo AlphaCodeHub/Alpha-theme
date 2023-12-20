@@ -10,8 +10,8 @@ A stylish theme inspired by vercel theme 🎨.
 </p>
 
 <p align="center">
-    <a href="https://github.com/Railly/one-hunter-vscode/stargazers"><img src="https://img.shields.io/github/stars/Railly/one-hunter-vscode?colorA=363a4f&colorB=f9c35a&style=for-the-badge"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/RaillyHugo.one-hunter?colorA=363a4f&colorB=5BDfff&style=for-the-badge"></a>
+    <a href="https://github.com/AlphaCodeHub/alpha-theme/stargazers"><img src="https://img.shields.io/github/stars/Railly/one-hunter-vscode?colorA=363a4f&colorB=f9c35a&style=for-the-badge"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/RaillyHugo.one-hunter?colorA=363a4f&colorB=5BDfff&style=for-the-badge"></a>
 </p>
 
 ![image-1](https://raw.githubusercontent.com/Railly/one-hunter-vscode/main/screenshots/one-hunter_preview.png)
