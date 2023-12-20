@@ -15,7 +15,7 @@ A stylish theme inspired by vercel theme 🎨.
     <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub"><img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/RaillyHugo.one-hunter?colorA=363a4f&colorB=5BDfff&style=for-the-badge"></a>
 </p>
 
-![image-1](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+<img src = "https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/master/screen/alpha-dark.png">
 
 ## Installation
 
@@ -29,7 +29,7 @@ A stylish theme inspired by vercel theme 🎨.
 
 ### Classic
 
-![image-2](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+<img src = "https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/master/screen/alpha-dark.png">
 
 ---
 
@@ -37,11 +37,11 @@ A stylish theme inspired by vercel theme 🎨.
 
 ### Alpha Dark
 
-![image-3](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20dark.png)
+<img src = "https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/master/screen/alpha-dark.png">
 
 ### Alpha light
 
-![image-4](https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/a098bfb3070caa0be180c942d05557e546e589e6/screenshots/alpha%20light.png)
+<img src = "https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/master/screen/alpha-light.png">
 
 
 
