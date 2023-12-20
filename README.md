@@ -1,6 +1,6 @@
 <h3 align="center">
-	![logo](https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/2b6da104-a4b0-448f-acde-f30371e3a8f0)
-  width="100" alt="Logo"/><br/>
+	<img src = "https://raw.githubusercontent.com/AlphaCodeHub/alpha-theme/master/alpha-logo.png"
+        width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Alpha Theme for <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub">VSCode</a>
 </h3>
