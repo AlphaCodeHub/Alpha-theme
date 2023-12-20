@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/AlphaCodeHub/alpha-theme/assets/94831767/a5b895b8-0349-479a-9686-51e0d22a0efa/alpha.jpg" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/AlphaCodeHub/alpha-theme/a5b895b8-0349-479a-9686-51e0d22a0efa/alpha.jpg" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Alpha Theme for <a href="https://marketplace.visualstudio.com/items?itemName=Alpha.alphacodehub">VSCode</a>
 </h3>
